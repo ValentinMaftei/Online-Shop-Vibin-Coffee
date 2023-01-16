@@ -16,7 +16,6 @@ totalitate de noi cu ajutorul aplicațiilor Blender și Krita.
 
 ###### Aplicația dispune de funcționalități precum: Înregistrare, Logare, Filtrare, Căutare, Adăugare comentarii, Ștergere comentarii, Adăugare produs, Stergere prdus, etc.
 
-###### Sneak peek photos:
 
 ## Presentation
 ### Vibin' Coffee
