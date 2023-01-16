@@ -1,8 +1,8 @@
 # Online-Shop-Vibin-Coffee
 
-[Română :romania:](#Prezentare)
+[Română :romania:](#prezentare)
 
-[English :eu:](#Presentation)
+[English :eu:](#presentation)
 
 ## Prezentare
 ### Vibin' Coffee
